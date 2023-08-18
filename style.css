@@ -319,10 +319,10 @@ display: flex;
     position: fixed;
     bottom: 50px;
     left: 45%;
-    background-color: #252323bd;
+    background-color: #171414bd;
     border-radius: 14px;
     padding: 14px 24px;
-    color: rgb(204, 202, 202);
+    color: rgb(255, 255, 255);
     align-items: center;
     gap: 10px
     ;
